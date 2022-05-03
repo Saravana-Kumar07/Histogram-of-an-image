@@ -24,7 +24,7 @@ Run the program and execute the output.
 ## Program:
 ```python
 # Developed By: Saravana Kumar.S
-# Register Number:21005866
+# Register Number:212221230088
 
 # Write and display your code to find the histogram of gray scale image and color image channels.
 import cv2
